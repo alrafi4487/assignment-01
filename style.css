@@ -107,3 +107,56 @@ nav ul a {
     color: #FFFFFF;
 }
 
+.card-heading{
+    text-align: center;
+    margin-top: 50px;   
+    font-size: 48px;
+    font-weight: 700px;
+    line-height: 58px;
+
+} 
+.card-para{
+    text-align: center;
+    font-size: 12px;
+    font-weight: 400px;
+    line-height: 20px;
+    color: #627382;
+}
+
+.card-container{
+    margin: 44px;
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+
+
+}
+.card-content{
+    background: #fff;
+    color: #000;
+    padding: 24px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 0 8px 0 #000000;
+
+}
+.card-img{
+    border: 1px ;
+    border-radius: 50%;
+    padding: 6px;
+    background: rgba(249, 85, 85, 1);
+    
+}
+.card-header{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    color: #001931;
+}
+.card-content p{
+    font-size: 16px;
+    line-height: 20px;
+    color: #627382;
+}
