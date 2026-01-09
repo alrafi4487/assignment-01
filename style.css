@@ -208,3 +208,27 @@ nav ul a {
     
     
 }
+
+
+.main-last{
+    text-align: center;
+    margin: 120px;
+    padding: 80px 40px;
+    background-color: #F7F6F2;
+}
+ .main-last-HP h1{
+    margin-bottom: 16px;
+ }
+ .main-last-HP p{
+    
+color: #627382;
+margin-bottom: 30px;
+ }
+.last-p{
+    margin-top: 16px;
+    color: #627382;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+    
